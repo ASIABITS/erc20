@@ -35,7 +35,7 @@ contract ASIABITSToken {
      * In our case, there's no initial supply. Tokens will be created as ether is sent
      * to the fall-back function. Then tokens are burned when ether is withdrawn.
      */
-    function ASIABITSToken(
+    function ASBTToken(
     string tokenName,
     uint8 decimalUnits,
     string tokenSymbol
