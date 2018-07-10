@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-contract ASIABITSToken {
+contract ASBTToken {
     /* ERC20 Public variables of the token */
     string public constant version = 'ASB0 0.1';
     string public name;
