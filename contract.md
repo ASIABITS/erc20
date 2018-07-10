@@ -2,7 +2,7 @@ pragma solidity ^0.4.24;
 
 contract ASBTToken {
     /* ERC20 Public variables of the token */
-    string public constant version = 'ASB0 0.1';
+    string public constant version = 'ASBT';
     string public name;
     string public symbol;
     uint8 public decimals;
